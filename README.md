@@ -41,7 +41,7 @@ The SQL queries investigate:
 
 - **`Danny's diner.sql`** — creates and populates the tables and contains the analysis queries.
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 This project helped me practise using SQL to combine tables, calculate customer metrics, analyse purchasing behaviour, and explore loyalty programme data.
 
