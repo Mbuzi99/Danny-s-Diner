@@ -2,21 +2,12 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project uses SQL to analyse customer orders at Danny's Diner. The goal is to understand customer spending, visiting habits, popular menu items, and loyalty programme activity.
 
-## 🗂️ Dataset
 
-The project uses three tables:
-
-| Table | Description |
-|---|---|
-| **sales** | Customer orders, order dates, and product IDs. |
-| **menu** | Product names and prices. |
-| **members** | Customers' loyalty programme join dates. |
-
-## 🔎 Questions Explored
+##  Questions Explored
 
 The SQL queries investigate:
 
@@ -30,7 +21,7 @@ The SQL queries investigate:
 - Customer points under the loyalty programme rules.
 - Customer order history and membership rankings.
 
-## 💻 SQL Skills Used
+## SQL Skills Used
 
 - `SELECT`, `WHERE`, and `ORDER BY`
 - `JOIN` and `LEFT JOIN`
@@ -42,11 +33,11 @@ The SQL queries investigate:
 - Window functions such as `DENSE_RANK()`
 - Creating a table from a query using `SELECT INTO`
 
-## 🛠️ Tools
+## Tools
 
 - SQL Server-style SQL syntax
 
-## 📁 Files
+## Files
 
 - **`Danny's diner.sql`** — creates and populates the tables and contains the analysis queries.
 
@@ -57,4 +48,4 @@ This project helped me practise using SQL to combine tables, calculate customer 
 ---
 
 **Project type:** SQL Data Analysis  
-**Dataset:** Danny's Diner sample case study
+**Dataset:** https://8weeksqlchallenge.com/case-study-1/
