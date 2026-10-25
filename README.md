@@ -6,6 +6,7 @@
 
 This project uses SQL to analyse customer orders at Danny's Diner. The goal is to understand customer spending, visiting habits, popular menu items, and loyalty programme activity.
 
+<img width="1068" height="604" alt="Screenshot 2026-10-25 135706" src="https://github.com/user-attachments/assets/2aa01194-1304-4674-b62a-0c4aee632b77" />
 
 ##  Questions Explored
 
